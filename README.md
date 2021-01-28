@@ -9,7 +9,7 @@
 ## General info
 HTML &amp; CSS project from Codecademy.com | in Full-Stack Engineer Pro Path
 
-Provided with design, redline mock,  media resources, and content. Project required that I build and deploy html/css documents from design specs.
+For this project, Codecademy provided a design mock, redline mock,  media resources, and text content. Using these resources, I built a static site with HTML & CSS.
 
 ## Technologies
 - HTML5
