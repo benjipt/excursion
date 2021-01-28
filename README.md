@@ -1,5 +1,4 @@
 # excursion
-HTML &amp; CSS project from Codecademy.com | in Full-Stack Engineer Pro Path
 
 ## Table of contents
 * [General info](#general-info)
